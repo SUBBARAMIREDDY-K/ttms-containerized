@@ -1,7 +1,8 @@
 version: '20.10.23' # docker version
 services:
   www:
-    image: mysqli-php-apache:1.0
+    build: .
+   # image: mysqli-php-apache:1.0
     volumes:
       - "./:/var/www/html" # Sync project dir with container we dir
     ports:
