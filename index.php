@@ -32,7 +32,7 @@
 	<div class="container-fluid main-body">
 		<div class="row main">
 			<div class="col-md-12">
-				<h2 class="text-center text-white text-uppercase" style="font-family: rockwell extrabold">Time table management system</h2>
+				<h2 class="text-center text-white text-uppercase" style="font-family: rockwell extrabold">Timetable management system with CI/CD</h2>
 			</div>
 
 				<!-- admin -->
